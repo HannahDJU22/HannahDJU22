@@ -2,6 +2,7 @@
 
 ## Kurser:
 Java-programmering | Utveckling mot databaser | Javaverktyg och byggmiljöer
+---|---|---
 Komplex Java-utveckling | Web services och integrationer | Utveckling av webbapplikationer
 Agil utveckling | LIA | Slutprojekt
 
